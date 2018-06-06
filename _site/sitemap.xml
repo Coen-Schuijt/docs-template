@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4001/editdocs/</loc>
+</url>
+<url>
+<loc>http://localhost:4001/community/</loc>
+</url>
+<url>
+<loc>http://localhost:4001/</loc>
+</url>
+<url>
+<loc>http://localhost:4001/docs/home/</loc>
+</url>
+<url>
+<loc>http://localhost:4001/docs/first-page/</loc>
+</url>
+<url>
+<loc>http://localhost:4001/docs/first-page/side-one/page/</loc>
+</url>
+<url>
+<loc>http://localhost:4001/docs/first-page/side-two/page/</loc>
+</url>
+<url>
+<loc>http://localhost:4001/docs/first-page/side-two/sub/sub-page/</loc>
+</url>
+<url>
+<loc>http://localhost:4001/docs/first-page/side-one/sub/sub-page/</loc>
+</url>
+<url>
+<loc>http://localhost:4001/jquery-ui.html</loc>
+<lastmod>2018-06-06T16:37:43+02:00</lastmod>
+</url>
+</urlset>

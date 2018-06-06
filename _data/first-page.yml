@@ -1,0 +1,28 @@
+bigheader: "First Page"
+abstract: "This is the first page for the documentation."
+toc:
+- docs/first-page/index.md
+
+# Main nav bar
+- title: Side One
+  path: docs/first-page/side-one.md
+  section:
+  - docs/first-page/side-one/page.md
+
+  # Sub nav bar
+  - title: Side One Sub
+    path: docs/first-page/side-one/sub.md
+    section:
+    - docs/first-page/side-one/sub/sub-page.md
+
+# Main Nav bar
+- title: Second Toc Header
+  path: docs/first-page/side-two.md
+  section:
+  - docs/first-page/side-two/page.md
+
+  # Sub nav bar
+  - title: Side Two Sub
+    path: docs/first-page/side-two/sub.md
+    section:
+    - docs/first-page/side-two/sub/sub-page.md
